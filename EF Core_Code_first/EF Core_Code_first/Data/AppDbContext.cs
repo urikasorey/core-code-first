@@ -16,13 +16,11 @@ namespace EF_Core_Code_first.Data
 		protected override void OnModelCreating(ModelBuilder builder)
 		{
 			builder.Entity<StudentCourses>()
-				.HasOne(x => x.Courses)
-				.WithMany(x => x.StudentCourses);
-
-
-
-			// Gọi phương thức Seed() từ DbInitializer
-			new DbInitializer(builder).seed();
+				.HasKey(sc => new
+				{
+					sc.StudentId,
+					sc.CoursesId
+				});
 		}
 	}
 }

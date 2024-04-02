@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "E:\\github\\core-code-first\\EF Core_Code_first\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,33 +35,27 @@
       "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\ef core_code_first.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\ef core_code_first.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|e:\\github\\core-code-first\\ef core_code_first\\ef core_code_first\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95C90128-18F0-44BF-AF6E-2CD0D08BB1EE}|EF Core_Code_first\\EF Core_Code_first.csproj|solutionrelative:ef core_code_first\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\github\\core-code-first\\Sql\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\github\\core-code-first\\Sql\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\github\\core-code-first\\Sql\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,12 +68,86 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240402122513_CodeFirst.cs",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs",
+              "RelativeToolTip": "EF Core_Code_first\\Migrations\\20240402122513_CodeFirst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:25:13.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "EF Core_Code_first.http",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\EF Core_Code_first.http",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\EF Core_Code_first.http",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\EF Core_Code_first.http",
+              "RelativeToolTip": "EF Core_Code_first\\EF Core_Code_first.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-02T12:18:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EF Core_Code_first\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:17:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\Services\\LibraryService.cs",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Services\\LibraryService.cs",
+              "RelativeToolTip": "EF Core_Code_first\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAQwAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:11:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\Services\\ILibraryService.cs",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "EF Core_Code_first\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:10:19.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EF Core_Code_first\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EF Core_Code_first\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:07:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\WeatherForecast.cs",
@@ -72,26 +160,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Program.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\Program.cs",
               "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Program.cs",
               "RelativeToolTip": "EF Core_Code_first\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T03:11:35.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\appsettings.json",
               "RelativeDocumentMoniker": "EF Core_Code_first\\appsettings.json",
               "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\appsettings.json",
               "RelativeToolTip": "EF Core_Code_first\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-02T03:10:23.51Z",
               "EditorCaption": ""
@@ -99,45 +187,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "EF Core_Code_first\\Data\\DbInitializer.cs",
-              "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "EF Core_Code_first\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T02:15:27.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Courses.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Models\\Courses.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\Models\\Courses.cs",
               "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Models\\Courses.cs",
               "RelativeToolTip": "EF Core_Code_first\\Models\\Courses.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T01:58:20.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StudentCourses.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Models\\StudentCourses.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\Models\\StudentCourses.cs",
               "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Models\\StudentCourses.cs",
               "RelativeToolTip": "EF Core_Code_first\\Models\\StudentCourses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T01:56:03.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Students.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Models\\Students.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\Models\\Students.cs",
@@ -150,24 +225,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EF Core_Code_first\\Data\\AppDbContext.cs",
               "ToolTip": "E:\\github\\core-code-first\\EF Core_Code_first\\EF Core_Code_first\\Data\\AppDbContext.cs",
               "RelativeToolTip": "EF Core_Code_first\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAD4vxQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T01:49:14.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 13,
+              "Title": "SQLQuery1.sql",
               "DocumentMoniker": "E:\\github\\core-code-first\\Sql\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "..\\Sql\\SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
+              "ToolTip": "E:\\github\\core-code-first\\Sql\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\Sql\\SQLQuery1.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-04-02T01:42:13.131Z",
               "EditorCaption": ""
