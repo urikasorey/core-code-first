@@ -1,0 +1,4 @@
+create database EF_Core_Code_first
+go
+use EF_Core_Code_first
+go
